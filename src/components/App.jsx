@@ -1,6 +1,6 @@
 import { createStore } from 'redux';
 import REDUX from 'redux';
-//redux
+
 // 1. зробили action
 const deposit = (amount) => {
 	// повертаємо action
