@@ -1,0 +1,2 @@
+//redux
+const deposit = (amount = {});
